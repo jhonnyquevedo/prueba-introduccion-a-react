@@ -1,7 +1,13 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  
-  text-align: center;
+  background-color: beige;
 }
 
+footer{
+  display: flex;
+  justify-content: center;
+}
+ 
+/* imagen colocada en el pie de página */
+footer .img{
+  width: 250px;
+}

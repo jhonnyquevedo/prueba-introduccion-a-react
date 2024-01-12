@@ -1,0 +1,6 @@
+.buscador {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5rem;
+}
